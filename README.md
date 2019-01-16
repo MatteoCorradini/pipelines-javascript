@@ -1,3 +1,7 @@
+# Markdown
+
+[![Build Status](https://seacspa.visualstudio.com/Seac.PatronatoTest/_apis/build/status/Seac.PatronatoTest-CI%20(2)?branchName=master)](https://seacspa.visualstudio.com/Seac.PatronatoTest/_build/latest?definitionId=205?branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
